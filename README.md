@@ -1,0 +1,1 @@
+# StrataScrach_CreditKarma_Share-of-Loan-Balance
